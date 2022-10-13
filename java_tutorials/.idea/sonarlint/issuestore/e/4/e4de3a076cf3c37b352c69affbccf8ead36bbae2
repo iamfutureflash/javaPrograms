@@ -1,0 +1,21 @@
+
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(õ•ëÓ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´Çˆ¢
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒì‡Ç
+g	java:S101,"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(­ëçÄüÿÿÿÿ
+g	java:S1012"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ß‹Çêşÿÿÿÿ
+V
+java:S2184)"@Cast one of the operands of this integer division to a "double".(‹ñ”
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¡åˆıÿÿÿÿ
+c	java:S100
+"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(……¼
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…Ò•Öşÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö¯Ÿ™şÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ©ªÌøÿÿÿÿ
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©²Îıÿÿÿÿ
+c	java:S100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÈçÚ
+b	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»ŒÿP
+c	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì—â
+N	java:S106/"9Replace this use of System.out or System.err by a logger.(£ÆÏÁ
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(ÏÎ³M
+S	java:S1066"9Replace this use of System.out or System.err by a logger.(”¿áÈÿÿÿÿÿ

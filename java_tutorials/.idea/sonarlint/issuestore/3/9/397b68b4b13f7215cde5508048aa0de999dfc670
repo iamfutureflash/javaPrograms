@@ -1,0 +1,26 @@
+
+h	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(óõïôşÿÿÿÿ
+c	java:S101œ"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥Ì”¿
+h	java:S101«"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ıÔ±ùÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¡åˆıÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+B
+java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+W	java:S125‘"<This block of commented-out lines of code should be removed.(äÉ”¤ûÿÿÿÿ
+Q
+java:S1161":Add the "@Override" annotation above this method signature(“–ış
+B
+java:S1481"&Remove this unused "i" local variable.(ùó›Ìøÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(äÉ”¤ûÿÿÿÿ
+T	java:S106±"9Replace this use of System.out or System.err by a logger.(¥Æà’ıÿÿÿÿ
+T	java:S106²"9Replace this use of System.out or System.err by a logger.(’×£°ıÿÿÿÿ
+T	java:S106³"9Replace this use of System.out or System.err by a logger.(‘­Ó‚úÿÿÿÿ
+N	java:S106´"9Replace this use of System.out or System.err by a logger.(ı½´F
+T	java:S106·"9Replace this use of System.out or System.err by a logger.(‘­Ó‚úÿÿÿÿ
+N	java:S106¸"9Replace this use of System.out or System.err by a logger.(ı½´F
+O	java:S106¹"9Replace this use of System.out or System.err by a logger.(€Ë­ß
+U
+java:S3252¹">Use static access with "java.lang.Thread" for "currentThread".(€Ë­ß
+L
+java:S2209¹"5Change this instance-reference to a static reference.(€Ë­ß

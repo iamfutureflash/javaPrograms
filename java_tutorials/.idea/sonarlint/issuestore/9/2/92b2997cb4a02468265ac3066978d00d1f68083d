@@ -1,0 +1,22 @@
+
+k
+java:S1104"PMake scan a static final constant or non-public and provide accessors if needed.(ÇèðÊùÿÿÿÿ
+E
+java:S1444"*Make this "public static scan" field final(ÇèðÊùÿÿÿÿ
+g	java:S101."MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Îòã€ÿÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß¡åˆýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’ƒ¶î
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¼´Ê£
+h	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¶ÝÏÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÀÑšä
+:
+java:S1659"Declare "z" on a separate line.(ÂÇüºûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¦³Ö‹øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(íÏ§½
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þù–Ô
+N	java:S106 "9Replace this use of System.out or System.err by a logger.(°À´Ý
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(Æÿ–ðøÿÿÿÿ
+P
+java:S18540"5Remove this useless assignment to local variable "d".(ËŠÇ©ùÿÿÿÿ
+A
+java:S14810"&Remove this unused "d" local variable.(ËŠÇ©ùÿÿÿÿ
