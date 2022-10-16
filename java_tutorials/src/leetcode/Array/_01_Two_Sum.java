@@ -1,6 +1,6 @@
 package leetcode.Array;
 
-public class Two_Sum {
+public class _01_Two_Sum {
     public static void main(String[] args) {
         int[] nums = {1,2,3,4};
         int target = 4;
