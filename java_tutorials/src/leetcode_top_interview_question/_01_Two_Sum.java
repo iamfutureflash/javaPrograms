@@ -1,4 +1,4 @@
-package leetcode.Array;
+package leetcode_top_interview_question;
 
 public class _01_Two_Sum {
     public static void main(String[] args) {

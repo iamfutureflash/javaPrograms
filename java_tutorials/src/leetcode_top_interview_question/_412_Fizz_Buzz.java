@@ -1,4 +1,4 @@
-package leetcode.ArrayList;
+package leetcode_top_interview_question;
 
 import java.util.ArrayList;
 import java.util.List;
